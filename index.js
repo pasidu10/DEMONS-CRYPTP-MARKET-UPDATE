@@ -1,4 +1,17 @@
 
+{
+  "name": "pasiya-md market-bot",
+  "version": "1.0.0",
+  "description": "Crypto market update bot for WhatsApp channel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
+```
 ```js
 const axios = require("axios");
 
