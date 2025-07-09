@@ -1,7 +1,4 @@
 
----
-
-📝 1. *index.js*
 ```js
 const axios = require("axios");
 
@@ -38,5 +35,3 @@ setInterval(sendMarketUpdate, 14400000);
 // First call
 sendMarketUpdate();
 ```
-
----
