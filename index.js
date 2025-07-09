@@ -1,4 +1,4 @@
-```js
+
 const makeWASocket = require("@whiskeysockets/baileys").default;
 const { useSingleFileAuthState, fetchLatestBaileysVersion } = require("@whiskeysockets/baileys");
 const P = require("pino");
