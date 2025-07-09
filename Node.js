@@ -21,7 +21,7 @@ async function sendWhatsApp(price) {
     
 {price}`,
     from: 'whatsapp:+94766359869',
-    to: 'whatsapp:+94722977523' // Group broadcast via approved Twilio sender
+    to: 'whatsapp:+94766359869' // Group broadcast via approved Twilio sender
   });
 }
 ```
