@@ -1,6 +1,6 @@
 
 {
-  "name": "market-bot",
+  "name": "pasiya-md market-bot",
   "version": "1.0.0",
   "description": "Crypto market update bot for WhatsApp channel",
   "main": "index.js",
