@@ -1,14 +1,4 @@
 
-   ```json
-   {
-     "name": "pasiya-md ",
-     "version": "1.0.0",
-     "main": "index.js",
-     "scripts": {
-       "start": "node index.js"
-     }
-   }
-   ```
 const makeWASocket = require("@whiskeysockets/baileys").default;
 const { useSingleFileAuthState, fetchLatestBaileysVersion } = require("@whiskeysockets/baileys");
 const P = require("pino");
